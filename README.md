@@ -1,12 +1,12 @@
-# anuj.exe 👋
+# Heyy, I'm Anuj 👋
 
-i build things that *shouldn’t* work… until they do.
+I build things that *shouldn’t* work… until they do.
 
-mostly around systems, ai, and anything where latency, scale, or weird edge cases start to matter.
+Mostly around systems, ai, and anything where latency, scale, or weird edge cases start to matter.
 
 ---
 
-## 🧠 current obsessions
+## 🧠 Current obsessions
 
 - making machines understand messy real-world data  
 - turning “this is manual and painful” into “this just works”  
@@ -15,7 +15,7 @@ mostly around systems, ai, and anything where latency, scale, or weird edge case
 
 ---
 
-## ⚙️ stack (tool, not identity)
+## ⚙️ Stack 
 
 ```txt
 python • c/c++ • sql • java
