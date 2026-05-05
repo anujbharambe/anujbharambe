@@ -1,21 +1,23 @@
-# hey, i'm anuj 👋
+# anuj.exe 👋
 
-i like building systems that think, scale, and occasionally break in interesting ways.
+i build things that *shouldn’t* work… until they do.
 
----
-
-## 🧠 what i'm into
-
-- backend systems that actually hold up under pressure  
-- ai that does more than just autocomplete text  
-- low-latency stuff, data pipelines, and clean abstractions  
-- figuring out *why* something works, not just making it work  
+mostly around systems, ai, and anything where latency, scale, or weird edge cases start to matter.
 
 ---
 
-## ⚙️ things i work with
+## 🧠 current obsessions
+
+- making machines understand messy real-world data  
+- turning “this is manual and painful” into “this just works”  
+- building systems that don’t fall apart under pressure  
+- speed. both in code and execution  
+
+---
+
+## ⚙️ stack (tool, not identity)
 
 ```txt
 python • c/c++ • sql • java
-fastapi • pytorch • tensorflow • langchain
-docker • aws • git
+fastapi • pytorch • tensorflow
+langchain • docker • aws
