@@ -1,16 +1,21 @@
-## Hi there 👋
+# hey, i'm anuj 👋
 
-<!--
-**anujbharambe/anujbharambe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i like building systems that think, scale, and occasionally break in interesting ways.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 what i'm into
+
+- backend systems that actually hold up under pressure  
+- ai that does more than just autocomplete text  
+- low-latency stuff, data pipelines, and clean abstractions  
+- figuring out *why* something works, not just making it work  
+
+---
+
+## ⚙️ things i work with
+
+```txt
+python • c/c++ • sql • java
+fastapi • pytorch • tensorflow • langchain
+docker • aws • git
